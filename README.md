@@ -1,4 +1,3 @@
-Numerical MOOC Assignment Bank
 ===============
 
 ## Contribute alternative assignments for "Practical Numerical Methods with Python"
